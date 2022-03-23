@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 -->
 
-- 🔭 I’m currently working on technical interview skills
+- 🔭 I’m currently working on my technical interview skills
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ethanlam0123/)
