@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my technical interview skills
 - 👯 I’m looking to collaborate on open source
+- 🌱 I’m currently learning React Hooks
 - 💬 Ask me about anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ethanlam0123/)
 - 😄 Pronouns: He/Him
